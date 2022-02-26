@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7NcdGL1Dw4MwPo1bPJTK62qSQNZ3CwmeM7A8++INT/YBasQQ9wNZ4r7RHA6cKsYyZpHdM3myj6a/RMihuRRbPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maria\\source\\repos\\ZapptsProject\\Zappts.Domain\\Zappts.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}

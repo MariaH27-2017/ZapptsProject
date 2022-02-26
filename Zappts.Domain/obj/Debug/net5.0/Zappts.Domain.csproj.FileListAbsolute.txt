@@ -1,0 +1,12 @@
+C:\Users\maria\source\repos\ProjetoZappts\Zappts.Domain\bin\Debug\net5.0\Zappts.Domain.deps.json
+C:\Users\maria\source\repos\ProjetoZappts\Zappts.Domain\bin\Debug\net5.0\Zappts.Domain.dll
+C:\Users\maria\source\repos\ProjetoZappts\Zappts.Domain\bin\Debug\net5.0\ref\Zappts.Domain.dll
+C:\Users\maria\source\repos\ProjetoZappts\Zappts.Domain\bin\Debug\net5.0\Zappts.Domain.pdb
+C:\Users\maria\source\repos\ProjetoZappts\Zappts.Domain\obj\Debug\net5.0\Zappts.Domain.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\ProjetoZappts\Zappts.Domain\obj\Debug\net5.0\Zappts.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\ProjetoZappts\Zappts.Domain\obj\Debug\net5.0\Zappts.Domain.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\ProjetoZappts\Zappts.Domain\obj\Debug\net5.0\Zappts.Domain.AssemblyInfo.cs
+C:\Users\maria\source\repos\ProjetoZappts\Zappts.Domain\obj\Debug\net5.0\Zappts.Domain.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\ProjetoZappts\Zappts.Domain\obj\Debug\net5.0\Zappts.Domain.dll
+C:\Users\maria\source\repos\ProjetoZappts\Zappts.Domain\obj\Debug\net5.0\ref\Zappts.Domain.dll
+C:\Users\maria\source\repos\ProjetoZappts\Zappts.Domain\obj\Debug\net5.0\Zappts.Domain.pdb

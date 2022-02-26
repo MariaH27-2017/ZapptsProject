@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.15" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Zappts.Domain\Zappts.Domain.csproj" />
+    <ProjectReference Include="..\Zappts.Infra.Data\Zappts.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
